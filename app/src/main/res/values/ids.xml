@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="spinner_subjects" type="id"/>
+    <item name="button_start_quiz" type="id"/>
+    <item name="text_question" type="id"/>
+    <item name="radio_group" type="id"/>
+    <item name="radio_option1" type="id"/>
+    <item name="radio_option2" type="id"/>
+    <item name="radio_option3" type="id"/>
+    <item name="radio_option4" type="id"/>
+    <item name="button_submit" type="id"/>
+</resources>
