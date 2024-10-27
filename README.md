@@ -16,8 +16,3 @@ Radio buttons are used for answer selection, ensuring clear and easy interaction
 
 
 
-![]()<img width="241" src="https://github.com/user-attachments/assets/fed70ff9-265a-40d2-8b27-8728fcfd06ea">
-![]()<img width="231" src="https://github.com/user-attachments/assets/e1e3111e-bf5f-49c5-bba6-baf2e76b1136">
-![]()<img width="249" src="https://github.com/user-attachments/assets/fc145dd2-1d62-4015-bf1e-9b7d73936dc5">
-<img width="242" src="https://github.com/user-attachments/assets/829abe72-2626-43bd-b13d-29952ab42cc3">
-<img width="218" src="https://github.com/user-attachments/assets/a3973d05-5b35-4897-8650-cf876aee3d37">
